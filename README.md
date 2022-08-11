@@ -1,2 +1,3 @@
 # RecSys
-code for Recommendation System
+Python code for Recommendation System Algorithm
+
